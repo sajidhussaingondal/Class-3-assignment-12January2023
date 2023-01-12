@@ -11,5 +11,5 @@ function doCalculations (...numbers){
     return sum;
   }
   
-  let x = doCalculations(1, 2, 3, 4, 5, 6, 7, 8);
-console.log(x);
+  let doAdditionOf = doCalculations(1, 2, 3, 4, 5, 6, 7, 8);
+console.log(doAdditionOf);
